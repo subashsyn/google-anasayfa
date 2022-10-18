@@ -1,0 +1,32 @@
+.center{
+    margin-top: 1px;
+    text-align: center;
+}
+.grey-bg{
+    margin-bottom: 1px;
+    background-color: rgb(224, 221, 221);
+}
+.flexbox{
+    display: flex;
+    justify-content:center;
+    flex-flow: row wrap;
+    padding: 15px 30px;
+    max-height: 20%;
+    height: 70px;
+}
+
+#specialsearch{
+    background-color: rgb(98, 179, 170);
+    width: 36%;
+}
+#links{
+    background-color:rgb(98, 179, 170) ;
+    margin: 1px;
+    width: 20%;
+}
+
+#get-updates{
+    background:rgb(98, 179, 170);
+    margin: 1px;
+    width: 36%;
+}
